@@ -1,1 +1,1 @@
-# This is repo for gif website
+# This is the repo for gif website
